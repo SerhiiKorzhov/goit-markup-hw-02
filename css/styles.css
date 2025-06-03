@@ -5,7 +5,6 @@
   font-style: normal;
   color:#434455;
   background-color: #ffffff;
-  margin: 0;
 }
 .header{
     background-color: #ffffff;
@@ -111,6 +110,7 @@
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
+    background-color:#FFFFFF;
 }
 .our-team-name{
     font-weight: 500;
