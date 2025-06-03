@@ -37,7 +37,6 @@
     color:#4D5AE5
 }
 .contacts{
-    font-style: normal;
     font-size: 16px;
     line-height: 1.5;
 }
@@ -75,7 +74,6 @@
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     color: #2E2F42;
-    font-style: normal;
     font-size: 20px;
     line-height: 1.2;
 }
@@ -83,13 +81,11 @@
     font-family: "Roboto", sans-serif;
     font-weight: 400;
     color:#434455;
-    font-style:normal;
     font-size: 16px;
     line-height: 1.5;
 }
 .our-team{
     font-family: "Roboto", sans-serif;
-    font-style:normal;
 }
 .our-team-title{
     font-weight: 700;
@@ -111,7 +107,6 @@
 }
 .portfolio{
      font-family: "Roboto", sans-serif;
-    font-style:normal;
 }
 .portfolio-title{
     font-weight: 700;
@@ -130,4 +125,17 @@
     color:#434455;
     font-size:16px;
     line-height: 1.5;
+}
+.footer{
+    background-color: #2E2F42;
+      font-family: "Roboto", sans-serif;
+}
+.footer-text{
+    font-weight: 400;
+    color:#F4F4FD;
+    font-size:16px;
+    line-height: 1.5;
+}
+.logo-footer .logo-studio{
+    color:#F4F4FD;
 }
