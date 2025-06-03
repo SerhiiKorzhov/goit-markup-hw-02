@@ -54,7 +54,6 @@
 
 .hero{
     background-color: #2E2F42;
-    padding: 188px 0;
     text-align: center;
     letter-spacing: 0.02em;
 }
@@ -110,6 +109,9 @@
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
+    background-color:#FFFFFF;
+}
+.our-team-item{
     background-color:#FFFFFF;
 }
 .our-team-name{
