@@ -33,7 +33,7 @@
 .nav-link{
     text-decoration: none;
     cursor: pointer;
-    color:#434455;
+    color:#2e2f42 ;
 }
 .nav-link:hover, .nav-link:focus{
     color:#404bbf;
@@ -47,6 +47,7 @@
 }
 .contact-link{
     text-decoration: none;
+    color:#434455;
 }
 .contact-link:hover, .contact-link:focus{
     color: #404BBF;
@@ -97,7 +98,7 @@
 }
 .our-team{
     font-family: "Roboto", sans-serif;
-    background-color: #FFFFFF;
+    background-color: #F4F4FD;
 }
 .our-team-list{
     background-color:#FFFFFF;
