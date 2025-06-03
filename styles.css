@@ -71,3 +71,19 @@
 .hero-button:hover, .hero-button:focus{
     background-color: #404BBF;
 }
+.advantages-subtitle{
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    color: #2E2F42;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 1.2;
+}
+.advantages-text{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    color:#434455;
+    font-style:normal;
+    font-size: 16px;
+    line-height: 1.5;
+}
