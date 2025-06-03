@@ -33,6 +33,7 @@
 .nav-link{
     text-decoration: none;
     cursor: pointer;
+    color:#434455;
 }
 .nav-link:hover, .nav-link:focus{
     color:#404bbf;
@@ -96,7 +97,7 @@
 }
 .our-team{
     font-family: "Roboto", sans-serif;
-    background-color: #F4F4FD;
+    background-color: #FFFFFF;
 }
 .our-team-list{
     background-color:#FFFFFF;
