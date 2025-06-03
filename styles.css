@@ -87,3 +87,47 @@
     font-size: 16px;
     line-height: 1.5;
 }
+.our-team{
+    font-family: "Roboto", sans-serif;
+    font-style:normal;
+}
+.our-team-title{
+    font-weight: 700;
+    color:#2E2F42;
+    font-size: 36px;
+    line-height: 1.1;
+}
+.our-team-name{
+    font-weight: 500;
+    color:#2E2F42;
+    font-size: 20px;
+    line-height: 1.2;
+}
+.our-team-role{
+    font-weight: 400;
+    color:#434455;
+    font-size: 16px;
+    line-height: 1.5;
+}
+.portfolio{
+     font-family: "Roboto", sans-serif;
+    font-style:normal;
+}
+.portfolio-title{
+    font-weight: 700;
+    color:#2E2F42;
+    font-size:36px;
+    line-height: 1.1;
+}
+.portfolio-subtitle{
+    font-weight: 500;
+    color:#2E2F42;
+    font-size:20px;
+    line-height: 1.2;
+}
+.portfolio-text{
+    font-weight: 400;
+    color:#434455;
+    font-size:16px;
+    line-height: 1.5;
+}
